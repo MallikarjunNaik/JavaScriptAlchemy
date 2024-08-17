@@ -17,7 +17,7 @@ The goal is simple: **practice and improve** JavaScript skills by solving a new 
 | Day | Problem      | Status         |
 |-----|--------------|----------------|
 |  1  | To Be Or Not To Be | ✅ Completed    |
-|  2  | Challenge 2  | ✅ Completed    |
+|  2  | Counter II  | ✅ Completed    |
 |  ...| ...          | ...            |
 | 30  | Challenge 30 | 🟢 In Progress  |
 
