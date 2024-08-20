@@ -18,7 +18,8 @@ The goal is simple: **practice and improve** JavaScript skills by solving a new 
 |-----|--------------|----------------|
 |  1  | To Be Or Not To Be | ✅ Completed    |
 |  2  | Counter II  | ✅ Completed    |
-|  3   | Apply Transform Over Each Element in Array | ✅ Completed        |
+|  3   | Apply Transform Over Each Element in Array | ✅ Completed|
+|  4   |Filter Elements from Array | ✅ Completed|
 | 30  | Challenge 30 | 🟢 In Progress  |
 
 ## 📈 Progress Tracker
